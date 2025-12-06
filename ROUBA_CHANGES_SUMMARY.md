@@ -1,6 +1,6 @@
 # RootRise Color System Updates - Summary of Changes
 **Based on Rouba's Design Directions**
-**Date:** December 6, 2024
+**Date:** December 6, 2025
 
 ---
 
